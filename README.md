@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python**
+- 💬 Ask me about **JavaScript, HTML, CSS, React.JS, Node.JS, Python, SQL**
 
 - ⚡ Fun fact **Bjj 😜**
 
