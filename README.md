@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React.JS, Node.JS, Python, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, React.JS, Node.JS, Angular, Java, Python, SQL**
 
 - ⚡ Fun fact **Bjj 😜**
 
@@ -44,7 +44,7 @@
 <a href="https://codepen.io/vinizbjj" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-vinizbjj-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://www.linkedin.com/in/vinicius-oliveira-de-arruda-aa551a127/" target="_blank">
+<a href="https://www.linkedin.com/in/viniz/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-vinizbjj-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/viniz.bjj/" target="_blank">
