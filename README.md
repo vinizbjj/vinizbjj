@@ -3,13 +3,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinícius Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinizbjj&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 An student focussed on learning to program for the web 
+- 🔥 Software developer 
 
 - 🔭 I’m currently working at 
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, NodeJS, Angular, Java, Python, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, ReactNative NodeJS, Angular, Java, Python, SQL**
 
 - ⚡ Fun fact **Bjj 😜**
 
