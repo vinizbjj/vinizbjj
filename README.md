@@ -5,13 +5,7 @@
 
 - 🔥 Software developer 
 
-- 🔭 I’m currently working at 
-
-- 👨‍💻 All of my projects are available at 
-
 - 💬 Ask me about **JavaScript, HTML, CSS, React, ReactNative NodeJS, Angular, Java, Python, SQL**
-
-- ⚡ Fun fact **Bjj 😜**
 
 <br><br>
 
